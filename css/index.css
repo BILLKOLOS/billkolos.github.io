@@ -1,0 +1,58 @@
+/* Reset some default styles */
+body, h1, h3, p, ul, li {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f5f5f5;
+    color: #333;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #007acc;
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+}
+
+h1 {
+    font-size: 2.5rem;
+    color: #e74c3c; /* Red */
+}
+
+h3 {
+    font-size: 1.5rem;
+    color: #f39c12; /* Orange */
+}
+
+section {
+    margin: 20px;
+    padding: 20px;
+    background-color: #f9ebc2; /* Beige */
+    border: 1px solid #ddd;
+    border-radius: 5px;
+}
+
+ul {
+    list-style-type: none;
+}
+
+ul li {
+    margin-bottom: 10px;
+    color: #3498db; /* Blue */
+}
+
+a {
+    color: #f39c12; /* Orange */
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+    color: #e67e22; /* Darker Orange */
+}
