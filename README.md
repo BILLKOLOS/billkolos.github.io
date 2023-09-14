@@ -1,3 +1,19 @@
+Personal Portfolio ⚡️
+A clean, beautiful, responsive portfolio template for Software Developers!
+
+https:// billkolos.github.io
+
+Website Preview
+
+
+⭐ Star me on GitHub — it helps!
+
+Features 📋
+⚡️ Fully Responsive
+⚡️ Valid HTML5 & CSS3
+⚡️ Typing animation using Typed.js
+⚡️ Easy to modify
+
 <h1 align="center">Hi 👋, I'm Bill Clinton</h1>
 <h3 align="center">A talented back end developer from Kenya</h3>
 
